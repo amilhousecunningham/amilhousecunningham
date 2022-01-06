@@ -25,7 +25,7 @@ A restaurant website that was created using HTML, CSS, and Bootstrap
 ![onxy website homepage](./images/onxy.png)
 ---
 ### SIMONE eCommerce Site: https://amilhousecunningham.github.io/online-store/index.html
-A eCommerce website that was created using HTML, CSS, and Bootstrap 
+An eCommerce website that was created using HTML, CSS, and Bootstrap 
 
 ![simone handbag page](./images/simone2.png)
 ---
