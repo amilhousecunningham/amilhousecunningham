@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Featured Projects
+## Featured Projects
 ---
 
 ### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
-A restaurant website that was created using HTML, CSS, and Bootstrap 
+### A restaurant website that was created using HTML, CSS, and Bootstrap 
+
 ![onxy website homepage](./images/onxy.png)
+
+### SIMONE eCommerce Site: https://amilhousecunningham.github.io/online-store/index.html
+
+![onxy website homepage](./images/simone.png)
+
+
+### A restaurant website that was created using HTML, CSS, and Bootstrap 
+
 
 
