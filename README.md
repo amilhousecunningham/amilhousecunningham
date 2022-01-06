@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Featured Projects
+---
+
+### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
+A restaurant website that was created using HTML, CSS, and Bootstrap 
+![onxy website homepage](./images/onxy.png)
+
+
