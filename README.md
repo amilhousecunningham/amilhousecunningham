@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 
 ### SIMONE eCommerce Site: https://amilhousecunningham.github.io/online-store/index.html
 
+---
+
 ![onxy website homepage](./images/simone.png)
 
-
 ### A restaurant website that was created using HTML, CSS, and Bootstrap 
+
+---
 
 
 
