@@ -1,5 +1,16 @@
-## Hi there 👋
-I am a Full Stack Java Developer.
+# Hi there 👋
+
+***Languages***
+
+• Java, Javascript, CSS, HTML
+
+***Frameworks***
+
+• Spring Boot, Node.js, Bootstrap
+
+***Tools***
+
+• Intellij, VS Code
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,24 +28,31 @@ Here are some ideas to get you started:
 -->
 
 ## Featured Projects
----
 
 ### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
-A restaurant website that was created using HTML, CSS, and Bootstrap 
+I created this restaurant website using HTML, CSS, and Bootstrap. 
+
+***-Ongoing Project***
 
 ![onxy website homepage](./images/onxy.png)
 ---
 ### SIMONE eCommerce Site: https://amilhousecunningham.github.io/online-store/index.html
-An eCommerce website that was created using HTML, CSS, Bootstrap, and JavaScript
+I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript. 
 
-![simone handbag page](./images/simone2.png)
+***-Ongoing Project***
+
+![simone handbags webpage](./images/simone2.png)
 ---
 
-### Portfolio: https://amilhousecunningham.github.io/online-store/index.html
-An eCommerce website that was created using HTML, CSS, Bootstrap, and JavaScript
+### Portfolio Landing Page
+I created this portfolio landing page using HTML, CSS, Bootstrap, and JavaScript. 
 
-![simone handbag page](./images/simone2.png)
----
+***-Ongoing Project***
+
+![portfolio landing page](./images/landing-page.png)
+
+
+
 
 
 
