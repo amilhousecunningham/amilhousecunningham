@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 ### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
 A restaurant website that was created using HTML, CSS, and Bootstrap 
+*ongoing project*
 
 ![onxy website homepage](./images/onxy.png)
 ---
 ### SIMONE eCommerce Site: https://amilhousecunningham.github.io/online-store/index.html
 An eCommerce website that was created using HTML, CSS, Bootstrap, and JavaScript 
+*ongoing project*
 
 ![simone handbag page](./images/simone2.png)
 ---
