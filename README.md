@@ -4,11 +4,11 @@
 
 • Java, Javascript, CSS, HTML
 
-**Frameworks**
+***Frameworks***
 
 • Spring Boot, Node.js, Bootstrap
 
-***Tools I have used:***
+***Tools***
 
 • Intellij, VS Code
 
