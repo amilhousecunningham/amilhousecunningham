@@ -1,5 +1,5 @@
 # Hi there 👋
-I enjoy full stack development!
+## I enjoy full stack development!
 
 ***Languages***
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 -->
 
 ## Featured Projects
----
 
 ### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
 I created this restaurant website using HTML, CSS, and Bootstrap. 
