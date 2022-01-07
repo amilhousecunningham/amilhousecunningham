@@ -1,24 +1,17 @@
 # Hi there 👋
-
-## I enjoy full stack development.
+I enjoy full stack development!
 
 ***Languages***
 
-• Java
-• Javascript
-• CSS
-• HTML
+• Java, Javascript, CSS, HTML
 
 **Frameworks**
 
-• Spring Boot
-• Node.js
-• Bootstrap
+• Spring Boot, Node.js, Bootstrap
 
 ***Tools I have used:***
 
-• Intellij
-• VS Code
+• Intellij, VS Code
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
