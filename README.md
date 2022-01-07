@@ -1,17 +1,22 @@
 # Hi there 👋
 
+## I enjoy full stack development.
+
 ***Languages***
+
 • Java
 • Javascript
 • CSS
 • HTML
 
 **Frameworks**
+
 • Spring Boot
 • Node.js
 • Bootstrap
 
 ***Tools I have used:***
+
 • Intellij
 • VS Code
 
