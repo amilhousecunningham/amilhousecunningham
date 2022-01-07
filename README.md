@@ -45,7 +45,7 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 ---
 
 ### Portfolio Landing Page
-I created this portfolio landing page using HTML, CSS, Bootstrap, and JavaScript. 
+I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
 ***-Ongoing Project***
 
