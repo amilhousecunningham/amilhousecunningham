@@ -2,15 +2,15 @@
 
 ***Languages***
 
-• Java, Javascript, CSS, HTML
+• Javascript, CSS, HTML
 
 ***Frameworks***
 
-• Spring Boot, Node.js, Bootstrap
+• Node.js, Bootstrap
 
 ***Tools***
 
-• Intellij, VS Code
+• VS Code
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
