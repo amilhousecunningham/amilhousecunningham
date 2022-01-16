@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-### Portfolio Landing Page: https://amilhousecunningham.github.io/landing-page/
+### Portfolio Landing Page
+### Website: https://amilhousecunningham.github.io/landing-page/
+### Code: https://github.com/amilhousecunningham/landing-page
 I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
 ***-Ongoing Project***
