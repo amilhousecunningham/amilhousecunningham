@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
+### Portfolio Landing Page: https://amilhousecunningham.github.io/landing-page/
+I created this portfolio landing page using HTML, CSS, and Bootstrap. 
+
+***-Ongoing Project***
+
+![portfolio landing page](./images/landing-page.png)
+---
+
 ### O N Y X Restaurant: https://amilhousecunningham.github.io/onxy-restaurant/#
 I created this restaurant website using HTML, CSS, and Bootstrap. 
 
@@ -44,12 +52,7 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 ![simone handbags webpage](./images/simone2.png)
 ---
 
-### Portfolio Landing Page: https://amilhousecunningham.github.io/landing-page/
-I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
-***-Ongoing Project***
-
-![portfolio landing page](./images/landing-page.png)
 
 
 
