@@ -41,7 +41,7 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 ---
 
 ### Portfolio Home Page Design
-***Website:*** https://amilhousecunningham.github.io/landing-page/
+***Website:*** https://amilhousecunningham.github.io/home-page/
 
 ***Code:*** https://github.com/amilhousecunningham/landing-page
 
