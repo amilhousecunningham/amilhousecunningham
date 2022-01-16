@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### Portfolio Landing Page
 ***Website:*** https://amilhousecunningham.github.io/landing-page/
+
 ***Code:*** https://github.com/amilhousecunningham/landing-page
 I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
@@ -39,8 +40,9 @@ I created this portfolio landing page using HTML, CSS, and Bootstrap.
 ![portfolio landing page](./images/landing-page.png)
 ---
 
-## O N Y X Restaurant: 
+### O N Y X Restaurant: 
 ***Website:*** https://amilhousecunningham.github.io/onxy-restaurant/#
+
 ***Code:*** https://github.com/amilhousecunningham/onxy-restaurant
 I created this restaurant website using HTML, CSS, and Bootstrap. 
 
@@ -48,8 +50,9 @@ I created this restaurant website using HTML, CSS, and Bootstrap.
 
 ![onxy website homepage](./images/onxy.png)
 ---
-## SIMONE eCommerce 
+### SIMONE eCommerce 
 ***Website:*** https://amilhousecunningham.github.io/online-store/index.html
+
 ***Code:*** https://github.com/amilhousecunningham/online-store
 I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript. 
 
