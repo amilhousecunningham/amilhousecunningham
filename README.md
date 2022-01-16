@@ -28,30 +28,6 @@ Here are some ideas to get you started:
 -->
 
 ## Featured Projects
-
-### Portfolio Landing Page
-***Website:*** https://amilhousecunningham.github.io/landing-page/
-
-***Code:*** https://github.com/amilhousecunningham/landing-page
-
-I created this portfolio landing page using HTML, CSS, and Bootstrap. 
-
-<!-- ***-Ongoing Project*** -->
-
-![portfolio landing page](./images/landing-page.png)
----
-
-### O N Y X Restaurant: 
-***Website:*** https://amilhousecunningham.github.io/onxy-restaurant/#
-
-***Code:*** https://github.com/amilhousecunningham/onxy-restaurant
-
-I created this restaurant website using HTML, CSS, and Bootstrap. 
-
-<!-- ***-Ongoing Project*** -->
-
-![onxy website homepage](./images/onxy.png)
----
 ### SIMONE eCommerce 
 ***Website:*** https://amilhousecunningham.github.io/online-store/index.html
 
@@ -63,6 +39,30 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 
 ![simone handbags webpage](./images/simone2.png)
 ---
+
+### Portfolio Home Page Design
+***Website:*** https://amilhousecunningham.github.io/landing-page/
+
+***Code:*** https://github.com/amilhousecunningham/landing-page
+
+I created this portfolio landing page using HTML, CSS, and Bootstrap. 
+
+<!-- ***-Ongoing Project*** -->
+
+![portfolio landing page](./images/home-page.png)
+---
+### O N Y X Restaurant: 
+***Website:*** https://amilhousecunningham.github.io/onxy-restaurant/#
+
+***Code:*** https://github.com/amilhousecunningham/onxy-restaurant
+
+I created this restaurant website using HTML, CSS, and Bootstrap. 
+
+<!-- ***-Ongoing Project*** -->
+
+![onxy website homepage](./images/onxy.png)
+---
+
 
 
 
