@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
-***-Ongoing Project***
+<!-- ***-Ongoing Project*** -->
 
 ![portfolio landing page](./images/landing-page.png)
 ---
@@ -48,7 +48,7 @@ I created this portfolio landing page using HTML, CSS, and Bootstrap.
 
 I created this restaurant website using HTML, CSS, and Bootstrap. 
 
-***-Ongoing Project***
+<!-- ***-Ongoing Project*** -->
 
 ![onxy website homepage](./images/onxy.png)
 ---
@@ -59,7 +59,7 @@ I created this restaurant website using HTML, CSS, and Bootstrap.
 
 I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript. 
 
-***-Ongoing Project***
+<!-- ***-Ongoing Project*** -->
 
 ![simone handbags webpage](./images/simone2.png)
 ---
