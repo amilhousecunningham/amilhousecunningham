@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ***Code:*** https://github.com/amilhousecunningham/landing_page
 
-I created this portfolio landing page using HTML, CSS, and Bootstrap. 
+I created this portfolio landing page using HTML and CSS. 
 
 <!-- ***-Ongoing Project*** -->
 
