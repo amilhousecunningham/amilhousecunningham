@@ -38,7 +38,7 @@ I created this portfolio landing page using HTML, CSS, and Bootstrap.
 
 <!-- ***-Ongoing Project*** -->
 
-![portfolio landing page](./images/landing_page.png)
+![portfolio landing page](./images/landing-page.png)
 ---
 
 ### SIMONE eCommerce 
