@@ -29,18 +29,6 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-### Landing Page for Floral Site:
-***Website:*** https://amilhousecunningham.github.io/landing_page/
-
-***Code:*** https://github.com/amilhousecunningham/landing_page
-
-I created this landing page using HTML and CSS. 
-
-<!-- ***-Ongoing Project*** -->
-
-![floral sight landing page](./images/landing-page.png)
----
-
 ### SIMONE eCommerce Site:
 ***Website:*** https://amilhousecunningham.github.io/online-store/index.html
 
@@ -76,6 +64,17 @@ I created this restaurant website using HTML, CSS, and Bootstrap.
 ![onxy website homepage](./images/onxy.png)
 ---
 
+### Landing Page for Floral Site:
+***Website:*** https://amilhousecunningham.github.io/landing_page/
+
+***Code:*** https://github.com/amilhousecunningham/landing_page
+
+I created this landing page using HTML and CSS. 
+
+***-Ongoing Project*** 
+
+![floral sight landing page](./images/landing-page.png)
+---
 
 
 
