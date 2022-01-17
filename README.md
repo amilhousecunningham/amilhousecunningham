@@ -28,6 +28,19 @@ Here are some ideas to get you started:
 -->
 
 ## Featured Projects
+
+### Landing Page for Floral Site
+***Website:*** https://amilhousecunningham.github.io/landing_page/
+
+***Code:*** https://github.com/amilhousecunningham/landing_page
+
+I created this portfolio landing page using HTML, CSS, and Bootstrap. 
+
+<!-- ***-Ongoing Project*** -->
+
+![portfolio landing page](./images/landing_page.png)
+---
+
 ### SIMONE eCommerce 
 ***Website:*** https://amilhousecunningham.github.io/online-store/index.html
 
@@ -41,9 +54,9 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 ---
 
 ### Portfolio Home Page Design
-***Website:*** https://amilhousecunningham.github.io/landing-page/
+***Website:*** https://amilhousecunningham.github.io/home-page/
 
-***Code:*** https://github.com/amilhousecunningham/landing-page
+***Code:*** https://github.com/amilhousecunningham/home-page
 
 I created this portfolio landing page using HTML, CSS, and Bootstrap. 
 
