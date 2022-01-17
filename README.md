@@ -71,8 +71,8 @@ I created this restaurant website using HTML, CSS, and Bootstrap.
 
 I created this landing page using HTML and CSS. 
 
-***-Ongoing Project*** 
-
+<!-- ***-Ongoing Project*** 
+ -->
 ![floral sight landing page](./images/landing-page.png)
 ---
 
