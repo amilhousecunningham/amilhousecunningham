@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-### Landing Page for Floral Site
+### Landing Page for Floral Site:
 ***Website:*** https://amilhousecunningham.github.io/landing_page/
 
 ***Code:*** https://github.com/amilhousecunningham/landing_page
@@ -38,10 +38,10 @@ I created this landing page using HTML and CSS.
 
 <!-- ***-Ongoing Project*** -->
 
-![portfolio landing page](./images/landing-page.png)
+![floral sight landing page](./images/landing-page.png)
 ---
 
-### SIMONE eCommerce 
+### SIMONE eCommerce Site:
 ***Website:*** https://amilhousecunningham.github.io/online-store/index.html
 
 ***Code:*** https://github.com/amilhousecunningham/online-store
@@ -53,18 +53,18 @@ I created this eCommerce website using HTML, CSS, Bootstrap, and JavaScript.
 ![simone handbags webpage](./images/simone2.png)
 ---
 
-### Portfolio Home Page Design
+### Portfolio Home Page Site:
 ***Website:*** https://amilhousecunningham.github.io/home-page/
 
 ***Code:*** https://github.com/amilhousecunningham/home-page
 
-I created this portfolio landing page using HTML, CSS, and Bootstrap. 
+I created this portfolio home page using HTML, CSS, and Bootstrap. 
 
 <!-- ***-Ongoing Project*** -->
 
-![portfolio landing page](./images/home-page.png)
+![portfolio home page](./images/home-page.png)
 ---
-### O N Y X Restaurant: 
+### O N Y X Restaurant Site: 
 ***Website:*** https://amilhousecunningham.github.io/onxy-restaurant/#
 
 ***Code:*** https://github.com/amilhousecunningham/onxy-restaurant
