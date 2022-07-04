@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## Portfolio
 ***Website:*** https://amilhousecunningham.github.io/portfolio-website/
 
-I created this portfolio to highlight the projects listed below.
+My portfolio highlights the projects listed below.
 
 ![portfolio handbags webpage](./images/profolio-img.png)
 ---
