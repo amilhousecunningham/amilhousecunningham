@@ -1,16 +1,7 @@
 # Hi there 👋
 
-***Languages***
-
-• Javascript, CSS, HTML
-
-***Frameworks***
-
-• Bootstrap
-
-***Tools***
-
-• VS Code
+***Technical Skills***
+• Javascript, Bootstrap, CSS, HTML
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
