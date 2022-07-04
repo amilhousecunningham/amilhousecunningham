@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 
 I created this portfolio to highlight the projects listed below.
 
+![portfolio handbags webpage](./images/profolio-img.png)
+---
+
 ## Featured Projects
 
 ### SIMONE eCommerce Site:
