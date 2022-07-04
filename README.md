@@ -1,7 +1,7 @@
 # Hi there 👋
 
-***Technical Skills***
-• Javascript, Bootstrap, CSS, HTML
+***Technical Skills:***
+Javascript, Bootstrap, CSS, HTML
 
 <!--
 **amilhousecunningham/amilhousecunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
