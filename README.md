@@ -1,6 +1,6 @@
 # Hi there 👋
 
-***Technical Skills:***
+[***Technical Skills:***
 Javascript, Bootstrap, CSS, HTML
 
 <!--
@@ -73,7 +73,7 @@ I created this landing page using HTML and CSS.
 <!-- ***-Ongoing Project*** 
  -->
 ![floral sight landing page](./images/landing-page.png)
----
+---](url)
 
 
 
